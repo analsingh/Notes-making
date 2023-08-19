@@ -8,7 +8,7 @@ Welcome to the Notes-Making Website! This simple yet powerful web application al
 
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -41,8 +41,9 @@ Welcome to the Notes-Making Website! This simple yet powerful web application al
    - If you wish to delete a note, click the trash icon (bin) on the note card.
    - A confirmation prompt will appear; confirm to delete the note permanently.
 
-## Installation
-**FOR DEMO ** https://analsingh.github.io/Notes-making/ 
+
+ ##Demo 
+ https://analsingh.github.io/Notes-making/ 
 1. **Clone the Repository**:
 
    git clone https://github.com/your-username/notes-making-website.git
